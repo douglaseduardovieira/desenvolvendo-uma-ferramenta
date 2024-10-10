@@ -48,12 +48,12 @@ body {
 .cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
-    margin-top: 8rem;
+    margin-top: 4rem;
 }
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
-    font-weight: 800;
+    font-weight: 500;
 }
 
 .cartao__conteudo__resposta p {
@@ -76,9 +76,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
-.cartao__conteudo__pergunta,h3{
-    transform: rotateZ(180deg);
-}
+
 
 
 
